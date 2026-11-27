@@ -1,0 +1,38 @@
+{
+  "en": {
+    "name": "Campeonato do Bairro",
+    "subtitle": "Your community football league",
+    "keywords": "amateur league manager,tournament bracket,neighborhood football,fixtures,standings",
+    "description": "Organize your neighborhood football tournament. Create a round robin or knockout bracket for 2–32 teams, schedule rounds, record scores and goalscorers, and keep standings up to date. Vote for the player of each completed round and create a PDF certificate for the champions. All core tools work offline. Choose a file to open, or send a copy directly to someone. Changes stay on this device until you share again. Local reminders are checked when you open the app. Free, with no ads or purchases."
+  },
+  "pt-BR": {
+    "name": "Campeonato do Bairro",
+    "subtitle": "Sua liga de futebol amador",
+    "keywords": "campeonato de futebol,torneio bairro,liga amadora,tabela,chaveamento,rodada",
+    "description": "Organize o campeonato do bairro. Crie torneios de pontos corridos ou eliminatórias com 2 a 32 times, programe rodadas, registre placares e artilheiros e acompanhe a classificação. Vote no craque da rodada concluída e gere diplomas em PDF. O núcleo funciona offline. Abra um arquivo ou envie uma cópia diretamente a alguém. As alterações ficam neste dispositivo até o próximo envio. Lembretes locais são verificados ao abrir o app. Gratuito, sem anúncios ou compras."
+  },
+  "es": {
+    "name": "Campeonato do Bairro",
+    "subtitle": "Tu liga de fútbol de barrio",
+    "keywords": "liga amateur,cuadro torneo,fútbol barrio,clasificación,partidos,jornadas",
+    "description": "Organiza un torneo de barrio de 2 a 32 equipos, todos contra todos o por eliminación directa. Programa jornadas, registra resultados y goleadores y consulta la clasificación. Vota al jugador de la jornada terminada y crea diplomas PDF. Funciona sin conexión. Abre un archivo o envía una copia directamente. Los cambios quedan en este dispositivo hasta que vuelvas a compartirlos. Avisos locales revisados al abrir la app. Gratis, sin anuncios ni compras."
+  },
+  "de": {
+    "name": "Campeonato do Bairro",
+    "subtitle": "Deine Fußballliga im Viertel",
+    "keywords": "Amateurliga,Turnierbaum,Fußball,Spielplan,Tabelle,Viertel,Turnier",
+    "description": "Organisiere ein Fußballturnier für 2–32 Teams: jeder gegen jeden oder K.-o.-System. Plane Runden, erfasse Ergebnisse und Torschützen und aktualisiere die Tabelle. Stimme über den Spieler einer abgeschlossenen Runde ab und erstelle PDF-Urkunden. Die Kernfunktionen laufen offline. Öffne eine Datei oder sende jemandem direkt eine Kopie. Änderungen bleiben bis zur nächsten Freigabe auf diesem Gerät. Lokale Erinnerungen werden beim Öffnen geprüft. Kostenlos, ohne Werbung oder Käufe."
+  },
+  "fr": {
+    "name": "Campeonato do Bairro",
+    "subtitle": "Votre ligue de quartier",
+    "keywords": "ligue amateur,tableau tournoi,football quartier,classement,matchs,calendrier",
+    "description": "Organisez un tournoi de football de quartier pour 2 à 32 équipes, en championnat ou à élimination directe. Planifiez les journées, notez les scores et buteurs, et suivez le classement. Votez pour le joueur d’une journée terminée et créez des diplômes PDF. Le cœur fonctionne hors ligne. Ouvrez un fichier ou envoyez une copie directement à un proche. Les modifications restent sur cet appareil jusqu’au prochain partage. Rappels locaux vérifiés à l’ouverture. Gratuit, sans publicité ni achats."
+  },
+  "it": {
+    "name": "Campeonato do Bairro",
+    "subtitle": "La tua lega di quartiere",
+    "keywords": "lega amatoriale,tabellone torneo,calcio quartiere,classifica,partite,turni",
+    "description": "Organizza un torneo di calcio di quartiere per 2–32 squadre, a girone o a eliminazione diretta. Pianifica i turni, registra risultati e marcatori e segui la classifica. Vota il giocatore del turno concluso e crea diplomi PDF. Il nucleo funziona offline. Apri un file o invia una copia direttamente. Le modifiche restano sul dispositivo fino alla condivisione successiva. Promemoria locali verificati all’apertura. Gratis, senza pubblicità né acquisti."
+  }
+}

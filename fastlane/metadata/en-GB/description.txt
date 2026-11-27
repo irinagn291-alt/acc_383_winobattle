@@ -1,0 +1,7 @@
+Organise a neighbourhood football tournament from the first kick-off to the final result. Choose a round robin or a single-elimination bracket, enter 2–32 teams and set the opening kick-off and the interval between rounds. Winobattle generates the fixtures.
+
+Build team squads, adjust kick-off times and record scores, penalty shoot-outs, goalscorers and match notes. Follow the league table and player goal totals, or see who advances in the knockout bracket. When the tournament ends, share a PDF certificate for each champion.
+
+Once all playable fixtures in a round have results, vote for Player of the Round and view the totals. Share a tournament copy as a file so participants can send back proposed match reports, ballots and flags. The organiser reviews proposed reports before applying them.
+
+Turn on optional local round reminders or add a widget to follow the selected tournament. Explore the built-in sample or create your own tournament without signing in.

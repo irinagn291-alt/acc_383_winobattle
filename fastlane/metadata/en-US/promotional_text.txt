@@ -1,0 +1,1 @@
+Start a neighborhood soccer tournament, generate a schedule, track goals, and vote for Player of the Round. Try the built-in sample without signing in.

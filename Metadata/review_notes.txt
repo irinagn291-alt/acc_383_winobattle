@@ -1,0 +1,7 @@
+On first launch, tap Explore a sample tournament. Overview shows the next playable kick-off. Open Fixtures to view the two completed Round 1 reports or edit a result, Standings to inspect the table and goalscorers, and Community to cast or change a Round 1 vote.
+
+To review creation and sharing, create a separate tournament with at least two unique teams. Choose the knockout format to test advancement and score a tied match to see the penalty requirement. Complete the final, then open Overview to generate a champion PDF and bring up the native share sheet.
+
+To test file exchange, use Share a copy in the organiser’s Overview and import the signed JSON file via Settings → Open a shared file on a separate installation. Save a proposed match report there, share a return file, and import it on the organiser’s installation. Approve or reject the pending report in Community. The app checks file signatures and versions. Data is stored on-device and exchange is manual. The sample is excluded from file exchange, reminders and widgets. No account is required.
+
+Reminders are off initially. Turning them on requests notification permission for alerts, sounds and badges. Venue and kick-off fields require neither location nor calendar access. The WidgetKit extension reads a local App Group snapshot of the selected non-sample tournament.

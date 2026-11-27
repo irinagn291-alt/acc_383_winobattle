@@ -1,0 +1,7 @@
+Organize a neighborhood soccer tournament from kickoff to the final result. Choose a round robin or a single-elimination bracket, enter 2–32 teams, and set the first kickoff and the number of days between rounds. Winobattle generates the schedule.
+
+Build team rosters, adjust kickoff times, and record scores, penalty shootouts, goal scorers, and match notes. Check the standings and player goal totals or follow the teams advancing through the bracket. When the tournament ends, share a PDF certificate for each champion.
+
+Once every playable match in a round has a result, vote for Player of the Round and see the totals. Share a tournament copy as a file so participants can send back proposed match reports, ballots, and flags. The organizer reviews proposed reports before applying them.
+
+Enable optional local round reminders or add a widget to follow the selected tournament. Explore the built-in sample or start your own tournament without signing in.

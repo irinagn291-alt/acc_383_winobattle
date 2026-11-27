@@ -1,0 +1,1 @@
+Set up a neighbourhood football tournament, generate fixtures, track goals and vote for Player of the Round. Try the built-in sample without signing in.

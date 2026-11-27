@@ -1,0 +1,1 @@
+football,fixtures,standings,bracket,round robin,knockout,goalscorers,teams,league,match reports
